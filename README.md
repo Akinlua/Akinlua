@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akinlua
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning backend
+- 🌱 I’m currently into backend
 - 💞️ I’m looking to collaborate on django projects and other backend projects
 - 📫 How to reach me
 

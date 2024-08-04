@@ -33,5 +33,7 @@ React.js:
 
 
 <div style="background: #f0f0f0; border-radius: 5px; width: 100%; padding: 5px;">
-  <div style="background: #61dafb; height: 20px; width: 70%; border-radius: 5px;"></div>
+  <div style="background: #61dafb; height: 20px; width: 70%; border-radius: 5px;">
+    hello
+  </div>
 </div>

@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Akinlua
-- 👀 I’m interested in programming
-- 🌱 I’m currently into backend
-- 💞️ I’m looking to collaborate on django projects and other backend projects
-- 📫 How to reach me
+Olorunfunminiyi Akinlua
+Welcome to my portfolio! I'm Olorunfunminiyi Akinlua, a software developer with a passion for backend development, web3, and blockchain technology. With over three years of experience, I specialize in creating robust solutions and engaging user experiences.
 
-<!---
-Akinlua/Akinlua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+I'm driven by a passion for technology and a commitment to solving real-world problems through innovative coding. My expertise spans backend and web development, with additional skills in app development and blockchain technologies.
+
+Email: akinluaolorunfunminiyi@gmail.com
+Phone: +234-912-103-1921
+Location: Nigeria
+Download CV / Resume
+
+Services and Skills
+Backend Development
+Node.js: 
+NestJS: 
+Express.js: 
+Django: 
+MongoDB: 
+SQL Databases: 
+Web3 and Blockchain Development
+Solidity: 
+Ether.js: 
+Web3.js: 
+Rust: 
+Motoko: 
+App Development
+Flutter: 
+Frontend Development
+HTML: 
+CSS: 
+JavaScript: 
+React.js:
